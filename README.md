@@ -1,2 +1,2 @@
 # Bootstrap-Core
-File CSS &amp; JS Bootstrap
+Bootstrap CSS &amp; JS
